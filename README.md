@@ -1,1 +1,1 @@
-ANgualr 2 playground
+Angular 2 Playgrund - just playing around with Angular2
